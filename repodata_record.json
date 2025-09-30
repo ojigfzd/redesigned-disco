@@ -1,0 +1,20 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "pytz >=2015.7"
+  ],
+  "fn": "babel-2.11.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "aac18d9c5e08e076fe21978a698deedd",
+  "name": "babel",
+  "sha256": "55c182e52add04f13f90a1809b46b4327de15af320aa0ef7ae3743541ca6c997",
+  "size": 6461127,
+  "subdir": "win-64",
+  "timestamp": 1699475843000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/babel-2.11.0-py312haa95532_0.conda",
+  "version": "2.11.0"
+}
